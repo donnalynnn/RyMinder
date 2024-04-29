@@ -1,0 +1,16 @@
+{
+    "members": [
+       {
+         "name": "John Doe",
+         "photo": "path/to/john_doe.jpg",
+         "about": "John is the father and works as a software engineer."
+       },
+       {
+         "name": "Jane Doe",
+         "photo": "path/to/jane_doe.jpg",
+         "about": "Jane is the mother and works part-time as a teacher."
+       }
+    ]
+   }
+   
+   

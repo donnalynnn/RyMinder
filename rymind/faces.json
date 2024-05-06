@@ -1,0 +1,16 @@
+{
+    "faces": [
+      {
+        "image_path": "path/to/peter.jpg",
+        "tags": ["Peter"],
+        "patterns": ["Who is Peter", "Who is that man"],
+        "responses": ["Peter is your loml", "He is the love of your life uwu"]
+      },
+      {
+        "image_path": "path/to/image2.jpg",
+        "tags": ["Gianna"],
+        "patterns": ["Who is Gianna", "Who is that girl"],
+        "responses": ["Gianna is your sister, she does your errands", "She's a crazy girl"]
+      }
+    ]
+  }
